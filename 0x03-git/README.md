@@ -1,1 +1,1 @@
-Not empty readme
+readme is been updated from github.com
